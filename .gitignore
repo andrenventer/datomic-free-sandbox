@@ -2,3 +2,4 @@
 /datomic
 /.floo
 /.flooignore
+/.nrepl-port

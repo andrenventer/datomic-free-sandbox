@@ -6,7 +6,7 @@ A Clojure app to ... well, that part is up to you.
 
 From the datomic folder run the following
 
-cd Projects/Sandbox/datomic/
+cd Projects/datomic-free-sandbox/datomic/
 
 bin/transactor config/samples/free-transactor-template.properties
 
@@ -20,7 +20,7 @@ bin/datomic restore-db file:mbrainz-1968-1973 datomic:free://localhost:4334/mbra
 
 bin/datomic -Xmx4g -Xms4g backup-db datomic:free://localhost:4334/mbrainz-1968-1973
 
-file:/Users/nomad/Projects/Sandbox/datomic/backup
+file:/Users/nomad/Projects/datomic-free-sandbox/datomic/backup
 
 ;; launch a web console
 
