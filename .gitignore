@@ -1,2 +1,4 @@
 /target
 /datomic
+/.floo
+/.flooignore
