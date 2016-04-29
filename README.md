@@ -24,4 +24,4 @@ file:/Users/nomad/Projects/datomic-free-sandbox/datomic/backup
 
 ;; launch a web console
 
-bin/console -p 8080 dev datomic:free://localhost:4334/
+bin/console -p 8080 mbrainz datomic:free://localhost:4334/
