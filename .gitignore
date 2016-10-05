@@ -1,5 +1,4 @@
 /target
-/datomic
 /.floo
 /.flooignore
 /.nrepl-port

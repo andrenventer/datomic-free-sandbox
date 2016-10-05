@@ -47,4 +47,4 @@
 ;        :in ?log ?t1 ?t2
 ;        :where [(tx-ids ?log ?t1 ?t2) [?tx ...]]
 ;               [(tx-data ?log ?tx) [[?e ?a ?v _ ?added]]]]
-;      (d/log conn) #inst "2013-08-01" #inst "2013-08-02")
+;      (d/log (d/connect uri)) #inst "2014-11-18T03:41:56.328-00:00" #inst "2014-11-18T03:41:56.328-00:00")
