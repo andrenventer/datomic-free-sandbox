@@ -2,6 +2,12 @@
 
 A Clojure app to ... well, that part is up to you.
 
+## Get datomic
+
+https://my.datomic.com/downloads/free
+
+Copy the unzipped folder into this project folder as /datomic
+
 ## Usage
 
 From the datomic folder run the following
